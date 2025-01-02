@@ -65,7 +65,7 @@
   }
   .image img {
     width: auto;
-    height: 100px; /* Consistent height for all images */
+    height: 200px; /* Consistent height for all images */
     object-fit: cover;
     border-radius: 8px;
   }
